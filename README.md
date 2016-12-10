@@ -1,5 +1,5 @@
 # CSharp-Project
-CSharp Networking Project
-Basic Client-Server Configuration
-Server.cs - Single Server Listening
-Client.cs - Single Instance of Client 
+> CSharp Networking Project
+<br />Basic Client-Server Configuration
+<br />Server.cs - Single Server Listening
+<br />Client.cs - Single Instance of Client 
